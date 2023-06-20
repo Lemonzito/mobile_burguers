@@ -94,7 +94,7 @@ class MyHomePage extends StatelessWidget {
       title: 'Água de Copo',
       image: 'assets/item13.png',
       description: 'Água Natural Refrescante 310ml.',
-      value: 5.90,
+      value: 6,
     ),
     // Restante dos itens
   ];
